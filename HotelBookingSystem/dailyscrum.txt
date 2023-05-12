@@ -1,0 +1,105 @@
+Hotel Booking System (Spring Boot) Scrum 12/09/2021
+
+FSD01 TEAM 5
+Banshchikov, Dmitri
+Lin, Hong
+
+
+1.	What have you done/not done?
+2.	What are you planning on doing from this scrum to the next?
+3.	Where do I need assistance? What do I need to figure out?
+
+Banshchikov, Dmitri
+1.  Database, Entities, Git, Trello
+2.  RoomReservationController
+3.  Research work
+
+Lin, Hong
+1. Create basic User.java class,still need to continue add fuctions.
+2.UserController
+3. Research work, review video and files.
+
+2021-12-10
+Banshchikov, Dmitri
+1. site.js for reservation.html
+2. spring boot security
+3. css styling
+
+
+Lin, Hong
+1.Doing html of index page . complete to backend of user.add card on trello
+2.Try to complete to backend of user.
+3.Discuss code conflict by using different way  for backend .
+
+2021-12-12
+Banshchikov, Dmitri
+1. spring boot security (basic)
+2. create docker image
+3. upload project to cloud
+
+
+Lin, Hong
+1.Doing html of home page, completed the login,register page.CSS styling.
+2.Continue to do the other html page of frontend.
+3.Discuss problem about backend.
+
+2021-12-13
+Banshchikov, Dmitri
+1. spring boot security
+2. test of implemented features
+3. stuck with docker image
+
+
+Lin, Hong
+1.Finish basic Frontend design. continue to add and modify them.
+2.Try to fix the password repast problem. Add some backends file of completed.
+3.Discuss problem about security.
+
+2021-12-14
+Banshchikov, Dmitri
+1. test of implemented features
+2. admin crud
+3. aws or heroku
+
+
+Lin, Hong
+1.Finished login and register security part, continue to  add validation.
+2.Finished index,login , register frond-end page. continue to do home page.
+3.Discuss with groupware prepare for midterm check.
+
+2021-12-15
+Banshchikov, Dmitri
+1. admin crud
+2. upload project to heroku
+3. test of implemented features
+
+
+Lin, Hong
+1.  add validation. continue to complete it. will modify the reserve part.
+2. Continue added html page, design the webpage.
+3.Discuss with team-mate some problems of project and prepare for midterm check.
+
+2021-12-16
+Banshchikov, Dmitri
+1. test of implemented features
+2. heroku database
+3. presentation
+
+
+Lin, Hong
+1.Finish almsot all backend and frentend work. still need to fix it and do some Css design
+2.learning aws hosting
+3.Discuss with team-mate about project some proble and will prepare the presentation.
+
+2021-12-17
+Banshchikov, Dmitri
+1. update trello
+2. clean up code
+3. presentation
+
+
+Lin, Hong
+1.Almost finish all frentedn and backend work. still need to fix some frontend css.
+2.learning aws hosting make it working. 
+3.Discuss with team-mate about project database setting of hosting and will prepare the presentation.
+
